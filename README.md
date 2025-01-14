@@ -1,0 +1,1 @@
+This repository contains a simple Python program that calculates the factorial of a number using recursion. However, the original code lacks proper handling for negative input, leading to a RecursionError. The solution demonstrates how to fix this issue by adding a base case to handle negative inputs gracefully.
